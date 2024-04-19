@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|c:\\workspace\\c#dio\\desafio-projeto-hospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|c:\\workspace\\c#dio\\desafio-projeto-hospedagem\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|c:\\workspace\\c#dio\\desafio-projeto-hospedagem\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|solutionrelative:models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|c:\\workspace\\c#dio\\desafio-projeto-hospedagem\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B41D2F-8F41-4D75-9FE3-D746902F510B}|desafio-projeto-hospedagem.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:03:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:57:49.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suite.cs",
+              "DocumentMoniker": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Models\\Suite.cs",
+              "RelativeDocumentMoniker": "Models\\Suite.cs",
+              "ToolTip": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Models\\Suite.cs",
+              "RelativeToolTip": "Models\\Suite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:53:48.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\workspace\\c#dio\\desafio-projeto-hospedagem\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:44:53.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
